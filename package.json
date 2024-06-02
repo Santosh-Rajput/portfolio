@@ -12,10 +12,12 @@
   },
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
-    "@esbuild/win32-x64": "^0.19.2",
+    "@esbuild/win32-x64": "^0.19.12",
     "@material-tailwind/react": "^2.1.1",
+    "@middy/core": "^5.4.0",
     "@react-three/drei": "^9.77.4",
     "@react-three/fiber": "^8.13.4",
+    "esbuild": "^0.21.4",
     "framer-motion": "^10.12.17",
     "gh-pages": "^5.0.0",
     "gltfjsx": "^6.2.5",

@@ -18,7 +18,8 @@ import {
   jobit,
   tripguide,
   threejs,
-  CodeWings
+  CodeWings,
+  PRICETRACKER
 } from "../assets";
 
 export const navLinks = [
@@ -267,6 +268,27 @@ const projects = [
       },
     ],
     image: CodeWings,
+    source_code_link: "https://github.com/Santosh-Rajput",
+  },
+  {
+    name: "Price-Tracker",
+    description:
+    "Price Tracker a product tracking web tool that scrapes Amazon for real time price update.",
+    tags: [
+      {
+        name: "Next.13",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Railwind CSS",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "MongoDB",
+        color: "green-text-gradient",
+      },
+    ],
+    image: PRICETRACKER,
     source_code_link: "https://github.com/Santosh-Rajput",
   },
 ];

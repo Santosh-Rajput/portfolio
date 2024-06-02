@@ -33,6 +33,7 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import Profile from "./Profile.jpg";
 import Resume from "./Resume.pdf";
+import PRICETRACKER from "./PRICETRACKER.png";
 
 export {
   logo,
@@ -66,5 +67,6 @@ export {
   Profile,
   Resume,
   Nextjs,
-  CodeWings
+  CodeWings,
+  PRICETRACKER
 };
